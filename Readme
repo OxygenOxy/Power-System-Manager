@@ -1,0 +1,24 @@
+Power System Manager 1.0.0.
+============================NOTES=========================
+Power System Manager is a serious program and could lead damage to your pc.
+for example,
+Formatting C:
+So Please
+DO NOT MESS WITH IT!
+===========================agrement==============
+Power System Namager Is A BAT file desinged to manage your system
+1. DO NOT MESS AROUND!
+read notes!
+1.1 Examples of doom
+Formatting C:
+Formatting Personal Data
+2.Redistrubution
+this act is not allowed but can be placed with "Extenders"
+read 2.1 for info about extenders
+2.1. Extenders
+Extenders are addition either made by Us Or the Public.
+for example the ability to shutdown the pc.
+Extenders have to be credited by adding this to the 1st section
+if %answer%==5 goto credits
+:credits
+echo extension made by <your name>
